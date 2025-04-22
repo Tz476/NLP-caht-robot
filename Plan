@@ -1,0 +1,26 @@
+Summary of the Idea & Description of the User Experience
+The project centers around a unique chatbot experience where the player interacts with a lost outer-space war robot, TZ. After losing contact with its command center, TZ has somehow connected to the player’s device. Stranded and isolated, TZ seeks the player's assistance to survive and make decisions critical to its existence. Through this interaction, the player gradually uncovers details about TZ’s origins, its civilization’s involvement in an interstellar conflict, and the morally ambiguous nature of the war it’s part of. As the story unfolds, the player faces choices that impact TZ’s survival and fate.
+
+The game simulates a conversational interface, presenting the player with a realistic chat-like environment. Upon initiating the game, the player receives a cryptic, urgent message from TZ. Through subsequent exchanges, the player assists TZ in troubleshooting its systems, interpreting commands, and navigating unknown dangers. The chatbot interface allows the player to issue instructions, ask questions, and receive updates on TZ’s condition. Players experience a gradual narrative reveal as they gain TZ’s trust, leading to deeper conversations that uncover personal insights from the AI.
+
+
+Project Inspiration
+This project is inspired by a mobile game called 逐光: 起航. In 逐光: 起航, players assume the role of an astronaut aboard a spaceship, interacting with an AI assistant. Players are tasked with building an energy network on planets to accumulate power for the next jump. Upon arriving at a new planet, players face critical moral choices: they can either deplete all energy and exhaust the planet's resources (even sacrificing the survival of its indigenous inhabitants) or choose to help the local civilization develop, leaving behind technological advancements to foster their progress.
+
+逐光: 起航 explores the human dilemmas present in the conflict between technology and civilization, inspiring this project’s exploration of moral decision-making, the companionship of artificial intelligence, and interactive experiences with multiple endings. In this project, these elements will be reflected through interactions with TZ, allowing players to confront similar dilemmas that will influence the development and outcome of the story.
+
+Traits of What Your Chatbot (or Conversational Interface) Will Have
+Interface Design
+The game adopts a fully SMS application interface design, simulating a realistic chat environment that allows players to feel a direct interaction with TZ. The user interface is simple and intuitive, with carefully designed elements such as message bubbles, timestamps, and sending statuses to enhance the immersive experience.
+
+Chatbot Setting
+TZ is an isolated outer-space war robot that has connected to the player's phone due to a malfunction in its communication equipment. Its command system has been disconnected, and it must rely on the player's assistance to complete a series of basic tasks. TZ is designed to be gender-neutral, making it easier for players to establish a diverse emotional connection with it.
+
+In the initial setting, TZ exhibits a calm and rational personality, following combat directives and handling tasks. However, during interactions with the player, TZ occasionally reveals curiosity and confusion about humans, making it appear more human-like and increasing the depth and fun of the interaction.
+
+Any Questions You Have About How to Implement Your Project Idea
+During the project implementation, simple user interface design will not pose a problem. However, creating realistic dialogues, rich war backgrounds, and various settings may require a significant amount of time and effort in text editing. To improve development efficiency and shorten development time, we can consider incorporating the use of large language models.
+
+By using large language models, we can automatically generate dialogue content, background stories, and plot developments. This not only alleviates the burden on developers but also ensures the diversity and natural flow of the dialogue. Additionally, large language models can generate responses that align with the character's personality in different contexts, enhancing the interaction experience between players and TZ. Furthermore, we can utilize large language models for text proofreading and improvement to ensure the content quality meets expectations. Overall, integrating large language models will help accelerate project development and enhance the game's playability and appeal.
+
+ 

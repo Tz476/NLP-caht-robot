@@ -12,7 +12,7 @@ story_state = {
 }
 
 
-client = OpenAI(api_key='AIzaSyB-EHuc-woPyvtHp0xuE1b6CJ2k1qhkz08',
+client = OpenAI(api_key='*******',
                 base_url="https://generativelanguage.googleapis.com/v1beta/openai/")
 
 
